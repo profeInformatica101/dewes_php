@@ -13,6 +13,8 @@ if (isset($_POST['usuario']) && isset($_POST['credencial'])) {
     
     if ($user == "admin" && $pass == "admin") {
         $_SESSION['usuario'] = "Administrador";
+    }else  if ($user == "test" && $pass == "test") {
+        $_SESSION['usuario'] = "María";
     }
 }
 
