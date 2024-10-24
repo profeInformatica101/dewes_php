@@ -32,3 +32,7 @@ Realiza un sistema de inicio de sesión o login en PHP, que pida al usuario un n
 
 ## 11. Plantillas HTML en PHP
 Realiza los ejercicios anteriores utilizando plantillas HTML. Usa plantillas como herramienta para separar la lógica PHP de la presentación.
+
+## 12.  Lista de Compras
+Crea un formulario que permita al usuario ingresar varios productos en una lista de compras. Al enviar el formulario, el programa debe mostrar la lista completa de productos ingresados, utilizando un array para almacenarlos. Permite que el usuario agregue productos hasta que decida finalizar.
+
