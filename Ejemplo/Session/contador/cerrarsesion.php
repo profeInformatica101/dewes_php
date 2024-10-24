@@ -1,5 +1,5 @@
-/** codigo para cerrar sesión */
 <?php
+/** codigo para cerrar sesión */
     session_start();
     session_destroy();
     
