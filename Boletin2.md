@@ -1,6 +1,6 @@
 # Boletín de problemas 2 - PHP
 
-## 1. Diferencia entre un servidores
+## 1. Diferencia entre distintas tecnología de servidores web 
 Explica cómo un servidor PHP interactúa con un servidor web y cómo se ejecuta el código PHP en comparación con otras tecnologías de servidor.
 
 ## 2. Aplicación web para mostrar una frase en mayúsculas
