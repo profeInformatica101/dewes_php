@@ -1,0 +1,39 @@
+{
+  "nombre": "Juan Pérez",
+  "edad": 30,
+  "email": "juan.perez@example.com",
+  "esActivo": true,
+  "telefono": null,
+  "direccion": {
+    "calle": "Av. Siempre Viva",
+    "numero": 742,
+    "ciudad": "Springfield",
+    "pais": "USA"
+  },
+  "trabajo": {
+    "empresa": "Tech Solutions",
+    "puesto": "Desarrollador Web",
+    "añosExperiencia": 5
+  },
+  "habilidades": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "MySQL"
+  ],
+  "proyectos": [
+    {
+      "nombre": "Sistema de Gestión Escolar",
+      "descripcion": "Una aplicación web para gestionar el sistema escolar.",
+      "tecnologias": ["PHP", "JavaScript", "MySQL"],
+      "completado": true
+    },
+    {
+      "nombre": "Tienda en línea",
+      "descripcion": "E-commerce para una pequeña empresa de retail.",
+      "tecnologias": ["React", "Node.js", "MongoDB"],
+      "completado": false
+    }
+  ]
+}
