@@ -14,4 +14,4 @@ curl_setopt($ch, CURLOPT_HTTPHEADER, array(
 // Ejecutamos la solicitud
 $response = curl_exec($ch);
 $data = json_decode($response);
-echo "Nombre: " . $data->nombre;
+echo "Nombre proyecto: " . $data->proyectos[0]->nombre;
