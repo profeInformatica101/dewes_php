@@ -33,7 +33,7 @@ Realiza un sistema de inicio de sesión o login en PHP, que pida al usuario un n
 ## 11. Plantillas HTML en PHP
 Realiza los ejercicios anteriores utilizando plantillas HTML. Usa plantillas como herramienta para separar la lógica PHP de la presentación.
 
-## 12. Ejercicios para realizar con formularios y git
+## 12. Ejercicios para realizar con formularios 
 Instrucciones de Entrega: La entrega se realizará a través de GitHub. Los estudiantes deberán realizar un fork de este repositorio, realizar sus ejercicios y finalmente realizar un pull request con sus soluciones. Asegúrate de que el repositorio esté disponible en la siguiente ruta: https://github.com/<su_usuario_github>/ejercicios_php. Además, deben apoyarse en la documentación oficial de PHP en: https://www.php.net/manual/es/ para cualquier consulta sobre las funciones y características del lenguaje.
 
 https://github.com/profeInformatica101/ejercicios_php
